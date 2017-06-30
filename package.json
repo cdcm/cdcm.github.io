@@ -1,0 +1,28 @@
+{
+  "name": "cdcm.github.io",
+  "version": "1.0.0",
+  "description": "Content management without walls.",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iambriansreed@github.com/cdcm/cdcm.github.io.git"
+  },
+  "author": "Brian Reed <me@iambrian.com> (http://iambrian.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdcm/cdcm.github.io/issues"
+  },
+  "homepage": "https://github.com/cdcm/cdcm.github.io#readme"
+}
